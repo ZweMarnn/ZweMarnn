@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Zwe
 - 👀 I’m interested in web_developing
 - 🌱 I’m currently learning HTML, CSS, BootStrap, JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Japanese's organizations
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Let's sing and code
 
 <!---
